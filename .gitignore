@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual Environment
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# OS
+.DS_Store
+
+# UV
+.uv/
+
+# Claude Code
+settings.local.json
